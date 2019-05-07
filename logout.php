@@ -4,6 +4,6 @@ session_start();
 
 session_destroy();
 
-header('location: index.php?loggedout');
+header('location: index.html?loggedout');
 
 ?>

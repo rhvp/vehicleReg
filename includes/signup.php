@@ -18,7 +18,6 @@
                     
                     
                     <input type="submit" name="submit" class="btn btn-primary" />
-    
-    
-                    <small class="text-center"><a href="index.php" ><p > To sign in click here </p></a></small>
+                    
                 </form>
+                <small class="text-center"><a href="index.html" ><p > To sign in click here </p></a></small>
