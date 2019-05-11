@@ -5,3 +5,5 @@ This web app first captures a users details from the sign-up page and registers 
 The users password is encrypted to add a layer of security.
 The user can then login to their dashboard by entering there username and password which will be verified and logged in if correct.
 Once logged in to the dashboard, the user can register their vehicle details by clicking on the "add new car" tab.
+
+A user can also searched for registered vehicles from the index page by entering the vehicle's registration number.
