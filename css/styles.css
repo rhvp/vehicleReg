@@ -22,27 +22,39 @@ header{
     background:#000;
 }
 
-.sidebar{
-    height:50em;
-    background:#eee;
-    width:25%;
-    float:left;
+
+table{
+    /*width:80%;
+    margin:auto;*/
+    
 }
 
-.main_page{
-    background:#ddd;
-    height:50em;
-    width:75%;
-    float:left;
 
+tr td{
+    /*padding:0.3em;
+    font-size: 1em;
+    color:black;*/
+    font-family: arial;
 }
+.tablehead td{
+    /*padding:0.3em;
+    font-size: 1em;
+    background:black !important;
+    color:white !important;*/
+    font-family: arial;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+
+
+
 .profile{
     color:#fff;
     font-size:2em;
     float:right;
     padding:0.5em;
-}
-
-.welcome{
-    background-color: yellow !important;
 }
